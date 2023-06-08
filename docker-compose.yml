@@ -1,4 +1,5 @@
 # docker-compose.yml
+#teste
 version: "3"
 services:
   #postgres:
