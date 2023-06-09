@@ -14,7 +14,7 @@ app:
     volumes:
       - .:/code
     ports:
-      - "5433:80"
+      - "5435:80"
     depends_on:
       - postgres
       - redis
